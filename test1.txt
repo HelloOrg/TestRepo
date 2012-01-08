@@ -1,2 +1,3 @@
 insert line one the first time
 insert the second line in order to use tag
+insert the third line after tag v1.0 baseline.
